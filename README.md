@@ -5,10 +5,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Hammam Sousse
+- :school: I am a `Junior` at Faculty of Computers & Informatics
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity` [Resume](https://github.com/JoJoDevAdventure/JoJoDevAdventure/files/8838262/BouhlelYousseefResumeV2.pdf)
 - :nerd_face: Always `learning new things`
 
 <br>
