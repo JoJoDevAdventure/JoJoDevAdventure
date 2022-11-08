@@ -36,6 +36,10 @@
    <a href="https://www.swift.org" target="_blank">
     <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%2314354C.svg?style=plastic&logo=swift&logoColor=orange">
   </a>
+  &emsp;
+   <a href="https://www.java.org" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?style=plastic&logo=java&logoColor=white">
+  </a>
 </p>
 
 ### 👉 UI / UX Design
