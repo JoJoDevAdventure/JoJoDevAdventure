@@ -9,14 +9,14 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=JoJoDevAdventure&label=Profile%20views&color=0e75b6&style=plastic" alt="JoJoDevAdventure" height=25px, width=150px/> 
 	<a href = "https://commits.top/tunisia.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Most Active Users" target="_blank" height=25px, width=300px/> 
+		<img src="https://enf3zl6hu2bspm9.m.pipedream.net/&style=plastic" alt="Most Active Users" target="_blank" height=25px, width=300px/> 
 	</a>
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
