@@ -181,7 +181,7 @@
 <div>
   <p align="center">
     	<a href="https://github.com/JoJoDevAdventure/RPS-Multiplayer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=RPS-Multiplayer&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=RPS-Multiplayer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/JoJoDevAdventure/Marvel-vs-VIH">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=Marvel-vs-VIH&theme=tokyonight" alt="GitHub Stats" />
