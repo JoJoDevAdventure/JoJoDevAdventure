@@ -221,6 +221,4 @@
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	![Snake animation](https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/output/github-contribution-grid-snake.svg)
-</p>
+![Snake animation](https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/output/github-contribution-grid-snake.svg)
