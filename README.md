@@ -223,6 +223,4 @@
 </br></br>
 	
 ### 🐍 A Snake Eating my Contributions Graph
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
-	
 ![Snake animation](https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/output/github-contribution-grid-snake.svg)
