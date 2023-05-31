@@ -6,9 +6,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=JoJoDevAdventure&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="JoJoDevAdventure" height=25px, width=150px/> 
-	<a href = "https://commits.top/tunisia.html" target="_blank">
-		<img src="https://en9qbhatdkiqqfk.m.pipedream.net/" alt="Most Active Users" target="_blank" height=25px, width=300px/>
-	</a>
 </p>
 
 	
