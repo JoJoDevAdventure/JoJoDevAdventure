@@ -19,19 +19,17 @@
 
 - :school: I have a bechelor Degree in `Computer Science`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Full-stack Development` and `iOS Developement`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit my website from [here](). 
+- :boom: You can visit my website from [here](https://jodev.xyz). 
 <br>
 
 ### <picture> <img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <p align="center">
-	<a href="mailto:youssef.b.air2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:joseph@bouhlel.org"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/JoJoDevAdventure"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/021653291225"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/youssef-bouhlel/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/0447783517481"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
 ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Programming languages
@@ -50,8 +48,8 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
+  &emsp; 
+<a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
 </p>
@@ -67,12 +65,19 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
+	  &emsp; 
+
+<img alt="reactjs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+	  &emsp; 
+
+<img alt="reactjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>
 
  ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Software_Tools.gif?raw=true" width = 40px>  </picture> Software & Tools
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
 <p align="center">
+	<img alt="Git" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
