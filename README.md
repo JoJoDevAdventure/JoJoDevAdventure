@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Joseph <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;iOS+Developer;UI/UX+Designer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Entrepreneur;Full-stack+developer;UI/UX+Designer;Always+creating+wealth"></a>
 </p>
 
 <p align="center"> 
@@ -18,10 +18,9 @@
 
 
 - :school: I have a bechelor Degree in `Computer Science`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Full-stack Development` and `iOS Developement`.
-- :nerd_face: Always `learning new things`.
-- :boom: You can visit my website from [here](https://jodev.xyz). 
+- :technologist: I love using Software as a solution for every `business`.
+- :nerd_face: Always `inovating`.
+- :boom: You can visit my agency from [here](https://joseign.com). 
 <br>
 
 ### <picture> <img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
